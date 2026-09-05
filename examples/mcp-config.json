@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "openeuler-toolkit": {
+      "command": "openeuler-mcp",
+      "args": [],
+      "env": {
+        "OPENEULER_MCP_ALLOWED_ROOTS": "/replace/with/a/safe/directory"
+      }
+    }
+  }
+}
